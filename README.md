@@ -1,7 +1,7 @@
 ## CSS Task 7
 
 ### Link to open:
-https://sourasishchakraborty.github.io/task7css/
+https://sourasishchakraborty.github.io/task7css/index.html
 
 ### Snapshots:
 ![Screenshot (292)](https://user-images.githubusercontent.com/64964968/88184618-8e980980-cc50-11ea-88e7-2a23ebfad8c6.png)
